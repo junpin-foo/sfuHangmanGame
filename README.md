@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/junpin-foo/sfuHangmanGame/assets/78187667/6a63300a-5015-401d-b160-350c95af51a3)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

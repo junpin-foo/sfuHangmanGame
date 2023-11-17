@@ -1,13 +1,17 @@
-# Getting Started with Create React App
-
+# SFU Themed Hangman Game
 ![image](https://github.com/junpin-foo/sfuHangmanGame/assets/78187667/6a63300a-5015-401d-b160-350c95af51a3)
 
 Inspired by: 
-https://github.com/mrgeorgegray/hangman
-and
-Tutorial: Building A Hangman Game With React Hooks by Meenakshi Dhanani
-and
-Web Dev Simplified on Youtube
+
+1. https://github.com/mrgeorgegray/hangman 
+
+
+2. Tutorial: Building A Hangman Game With React Hooks by Meenakshi Dhanani
+
+3. Web Dev Simplified on Youtube
+
+# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

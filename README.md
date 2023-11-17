@@ -2,6 +2,12 @@
 
 ![image](https://github.com/junpin-foo/sfuHangmanGame/assets/78187667/6a63300a-5015-401d-b160-350c95af51a3)
 
+Inspired by: 
+https://github.com/mrgeorgegray/hangman
+and
+Tutorial: Building A Hangman Game With React Hooks by Meenakshi Dhanani
+and
+Web Dev Simplified on Youtube
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
